@@ -1,0 +1,16 @@
+h1{
+    display: block;
+
+    position: relative;
+}
+
+ul{
+    position: fixed;
+    padding: 55px;
+    background-color: seagreen;
+
+}
+
+.div1{
+
+}
